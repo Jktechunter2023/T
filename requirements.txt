@@ -9,3 +9,4 @@ plotly==5.14.1
 streamlit==1.22.0
 twilio==8.2.0
 ultralytics==8.0.157
+opencv_python==4.8.0.76
